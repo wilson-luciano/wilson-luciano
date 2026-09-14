@@ -1,7 +1,10 @@
-![Wilson Luciano \| Future Engineering
-System](assets/future-engineering-system.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/future-engineering-system-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/future-engineering-system-light.png">
+  <img alt="Wilson Luciano | Future Engineering System" src="assets/future-engineering-system-dark.png">
+</picture>
 
-# Olá, eu sou Wilson Luciano 👋
+# Olá, eu sou Wilson Luciano 👋🏻
 
 ### Professor Titular e Pesquisador em Engenharia Mecânica \| Python, Inteligência Artificial e Automação
 
