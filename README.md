@@ -1,99 +1,177 @@
+![Wilson Luciano \| Future Engineering
+System](assets/future-engineering-system.png)
+
 # Olá, eu sou Wilson Luciano 👋
 
-### Professor Titular e Pesquisador em Engenharia Mecânica | Python, Inteligência Artificial e Automação
+### Professor Titular e Pesquisador em Engenharia Mecânica \| Python, Inteligência Artificial e Automação
 
-Sou **Professor Titular e pesquisador da Universidade Federal de Sergipe (UFS)**, engenheiro mecânico e técnico em eletrônica, com mestrado e doutorado em Engenharia Mecânica pela **Universidade Federal da Paraíba (UFPB)**.
+Sou **Professor Titular e pesquisador da Universidade Federal de Sergipe
+(UFS)**, engenheiro mecânico e técnico em eletrônica, com mestrado e
+doutorado em Engenharia Mecânica pela **Universidade Federal da Paraíba
+(UFPB)**.
 
-Minha trajetória acadêmica e profissional integra **engenharia, pesquisa, educação e tecnologia**. Atuo na formação de engenheiros, na pesquisa em engenharia térmica e energia e no desenvolvimento de soluções computacionais aplicadas ao ensino, à automação e à resolução de problemas de engenharia.
+Minha trajetória acadêmica e profissional integra **engenharia,
+pesquisa, educação e tecnologia**. Atuo na formação de engenheiros, na
+pesquisa em engenharia térmica e energia e no desenvolvimento de
+soluções computacionais aplicadas ao ensino, à automação e à resolução
+de problemas de engenharia.
 
-Atualmente, concentro parte do meu trabalho no uso de **Python, inteligência artificial, aprendizado de máquina, APIs e desenvolvimento de aplicações**, aproximando os fundamentos da engenharia mecânica das tecnologias digitais.
+Atualmente, concentro parte do meu trabalho no uso de **Python,
+Inteligência Artificial, Aprendizado de Máquina, APIs e desenvolvimento
+de aplicações**, aproximando os fundamentos da Engenharia Mecânica das
+tecnologias digitais.
 
-Também sou presidente da **ABEMEC-SE**, contribuindo para a valorização da engenharia e para a aproximação entre universidade, profissionais, empresas e sociedade.
+Também sou presidente da [**ABEMEC-SE**](https://abemec-se.org.br/),
+contribuindo para a valorização da engenharia e para a aproximação entre
+universidade, profissionais, empresas e sociedade.
 
----
+> 🎯 **PROPÓSITO \|** Aproximar a Engenharia Mecânica das tecnologias
+> digitais e transformar conhecimento técnico em soluções úteis,
+> didáticas e acessíveis.
 
-## 👨‍🏫 Áreas de atuação
+## 👨‍🏫 01 \| ENGINEER_IDENTITY
 
-- Pesquisa em engenharia térmica, energia e análise exergoeconômica
-- Programação aplicada à Engenharia Mecânica
-- Inteligência artificial e aprendizado de máquina
-- Automação industrial e sistemas hidropneumáticos
-- Comando Numérico Computadorizado e processos de fabricação
-- Máquinas de fluxo, instalações e equipamentos industriais
-- Termodinâmica, energia e análise exergoeconômica
-- Refrigeração, cogeração e trigeração
-- Motores de combustão interna e sistemas térmicos
-- Desenvolvimento de materiais e ferramentas educacionais
+### 🧭 Perfil Profissional
 
----
+-   🎓 **Academia \|** Universidade Federal de Sergipe \| UFS
+-   📚 **Formação \|** Graduação, Mestrado e Doutorado em Engenharia
+    Mecânica \| UFPB
+-   ⚙️ **Engenharia \|** Térmica \| Energia \| Sistemas Industriais \|
+    Fabricação
+-   💻 **Tecnologia \|** Python \| IA \| Automação \| Desenvolvimento de
+    Software
+-   🔬 **Atuação \|** Ensino \| Pesquisa \| Engenharia \| Inovação
 
-## 💻 Desenvolvimento e tecnologias
+## ⚙️ 02 \| ENGINEERING_CORE
 
-Utilizo o desenvolvimento de software como instrumento para transformar conhecimento de engenharia em aplicações práticas, recursos didáticos e soluções experimentais.
+Minha formação e experiência abrangem desde os fundamentos da engenharia
+térmica e energética até máquinas, processos de fabricação, instalações
+e sistemas industriais.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🔥 Energia \| Sistemas Térmicos
 
-### Competências em desenvolvimento e aplicação
+-   Termodinâmica, Energia e Análise Exergoeconômica
+-   Refrigeração, Cogeração e Trigeração
+-   Motores de Combustão Interna e Sistemas Térmicos
+-   Racionalização e Conversão de Energia
+-   Análises Energética, Exergética e Exergoeconômica
+-   Gás Natural e Sistemas de Distribuição
 
-- **Python** para engenharia, automação, análise de dados e aplicações educacionais
-- **Inteligência artificial**, aprendizado de máquina, visão computacional e processamento de linguagem natural
-- **FastAPI e Flask** para APIs, serviços e aplicações web
-- **Tkinter e CustomTkinter** para interfaces e aplicações desktop
-- **HTML, CSS e JavaScript** para interfaces web
-- Integração com **APIs, modelos de IA e equipamentos industriais**
-- **Git e GitHub**, testes automatizados e organização de projetos de software
-- Desenvolvimento orientado a projetos, com documentação e evolução incremental
+### 🏭 Engenharia Mecânica \| Sistemas Industriais
 
----
+-   Máquinas de Fluxo
+-   Instalações e Equipamentos Industriais
+-   Automação Industrial \| Sistemas Hidropneumáticos
+-   Comando Numérico Computadorizado \| CNC
+-   Usinagem Convencional e CNC \| Processos de Fabricação
+-   CAD \| Computação Gráfica aplicada à Engenharia
+-   Eletrônica Aplicada \| Integração de Sistemas
+-   Programação aplicada à Engenharia Mecânica
 
-## ⚙️ Engenharia e tecnologia
+### 🎓 Engenharia \| Educação
 
-Minha formação e experiência abrangem desde os fundamentos da engenharia térmica até aplicações industriais e computacionais:
+-   Desenvolvimento de Materiais e Ferramentas Educacionais
+-   Aplicações Computacionais para Ensino e Engenharia
+-   Integração entre Fundamentos de Engenharia e Tecnologias Digitais
 
-- Racionalização e conversão de energia
-- Análises energética, exergética e exergoeconômica
-- Cogeração, trigeração e sistemas de refrigeração
-- Motores de combustão interna e externa
-- Gás natural e sistemas de distribuição
-- Usinagem convencional e CNC
-- CAD e computação gráfica aplicada à engenharia
-- Eletrônica e automação industrial
+## 💻 03 \| TECHNOLOGY_STACK
 
----
+Utilizo o desenvolvimento de software como instrumento para transformar
+conhecimento de engenharia em **aplicações práticas, recursos didáticos
+e soluções experimentais**.
 
-## 🎯 Propósito
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> Aproximar a engenharia mecânica das tecnologias digitais e transformar conhecimento técnico em soluções úteis, didáticas e acessíveis.
+### 🧑‍💻 Desenvolvimento de Software
 
-Este perfil é um espaço para compartilhar experiências e desenvolver iniciativas que conectem **engenharia, programação, inteligência artificial, automação e educação**.
+-   **Python** \| Engenharia \| Automação \| Análise de dados \|
+    Aplicações educacionais
+-   **FastAPI \| Flask** \| APIs \| Serviços \| Aplicações web
+-   **Tkinter \| CustomTkinter** \| Interfaces \| Aplicações desktop
+-   **HTML \| CSS \| JavaScript** \| Interfaces web
+-   Integração com **APIs \| Modelos de IA \| Equipamentos industriais**
+-   **Git \| GitHub** \| Testes automatizados \| Organização de projetos
+-   Documentação \| Desenvolvimento incremental
 
----
+### 🧠 Inteligência Artificial
 
-## 🎓 Formação
+-   Inteligência Artificial aplicada à engenharia e educação
+-   Aprendizado de Máquina \| Machine Learning
+-   Visão Computacional
+-   Processamento de Linguagem Natural \| PLN
+-   Integração de modelos de IA em aplicações
 
-- **Doutorado em Engenharia Mecânica** - Universidade Federal da Paraíba
-- **Mestrado em Engenharia Mecânica** - Universidade Federal da Paraíba
-- **Graduação em Engenharia Mecânica** - Universidade Federal da Paraíba
-- **Técnico em Eletrônica** - Instituto Federal da Paraíba
+## 🤖 04 \| AI_AUTOMATION
 
----
+### 🔗 Da Engenharia Mecânica à Engenharia Inteligente
 
-## 🔗 Contato e produção acadêmica
+A integração entre engenharia, dados, programação, Inteligência
+Artificial e automação cria um fluxo contínuo entre o **mundo físico**,
+a **informação**, os **algoritmos** e a **ação sobre sistemas reais**.
 
-- 📚 [Currículo Lattes](https://lattes.cnpq.br/8493992873033167)
-- 📷 [Instagram profissional](https://www.instagram.com/wilsonlucianophd/)
-- 🏛️ Universidade Federal de Sergipe - UFS
-- 📍 Aracaju, Sergipe, Brasil
+![Da Engenharia Mecânica à Engenharia
+Inteligente](assets/engineering-to-smart-engineering.png)
 
----
+`MECHANICAL ENGINEERING` \| `ENGINEERING DATA` \| `PYTHON` \|
+`ARTIFICIAL INTELLIGENCE` \| `INDUSTRIAL AUTOMATION` \|
+`SMART ENGINEERING`
 
-<div align="center">
-  <em>Engenharia • Educação • Programação • Inteligência Artificial</em>
-</div>
+## 🔬 05 \| RESEARCH_EDUCATION
+
+Pesquisa e educação fazem parte do núcleo da minha atuação. Busco
+conectar **conhecimento científico, experiência em engenharia e
+ferramentas computacionais** para desenvolver novas formas de ensinar,
+experimentar e solucionar problemas.
+
+### 🔭 Pesquisa \| Desenvolvimento
+
+-   Engenharia térmica \| Energia
+-   Análise energética \| Exergética \| Exergoeconômica
+-   Sistemas térmicos \| Sistemas industriais
+-   Aplicações computacionais em engenharia
+-   Inteligência Artificial \| Aprendizado de Máquina
+-   Automação industrial
+-   Desenvolvimento de ferramentas educacionais
+
+### 🎓 Formação Acadêmica
+
+-   **Doutorado em Engenharia Mecânica** \| Universidade Federal da
+    Paraíba
+-   **Mestrado em Engenharia Mecânica** \| Universidade Federal da
+    Paraíba
+-   **Graduação em Engenharia Mecânica** \| Universidade Federal da
+    Paraíba
+-   **Técnico em Eletrônica** \| Instituto Federal da Paraíba
+
+## 📊 06 \| GITHUB_METRICS
+
+### 📈 System Activity
+
+**BUILD \| AUTOMATE \| RESEARCH \| INNOVATE**
+
+## 🔗 07 \| SYSTEM_CONNECT
+
+### 🌐 Contato \| Produção Acadêmica
+
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-005CA9?style=for-the-badge)](https://lattes.cnpq.br/8493992873033167)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson_Luciano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilsonluciano)
+[![YouTube](https://img.shields.io/badge/YouTube-Wilson_Luciano-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wilsonlucianophd)
+[![Instagram](https://img.shields.io/badge/Instagram-@wilsonlucianophd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wilsonlucianophd/)
+[![ABEMEC-SE](https://img.shields.io/badge/ABEMEC--SE-Engenharia-1F6FEB?style=for-the-badge)](https://abemec-se.org.br/)
+
+🏛️ **Universidade Federal de Sergipe \| UFS**\
+📍 Aracaju \| Sergipe \| Brasil
+
+### ⚙️ ENGINEERING \| 🎓 EDUCATION \| 💻 PROGRAMMING \| 🧠 ARTIFICIAL INTELLIGENCE
+
+**KNOWLEDGE TODAY \| A BETTER TOMORROW**
+
+`WLS-FES // 2026`
