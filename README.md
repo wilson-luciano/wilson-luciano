@@ -120,8 +120,11 @@ A integração entre engenharia, dados, programação, Inteligência
 Artificial e automação cria um fluxo contínuo entre o **mundo físico**,
 a **informação**, os **algoritmos** e a **ação sobre sistemas reais**.
 
-![Da Engenharia Mecânica à Engenharia
-Inteligente](assets/engineering-to-smart-engineering.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engineering-to-smart-engineering-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/engineering-to-smart-engineering-light.png">
+  <img alt="Da Engenharia Mecânica à Engenharia Inteligente" src="assets/engineering-to-smart-engineering-dark.png">
+</picture>
 
 `MECHANICAL ENGINEERING` \| `ENGINEERING DATA` \| `PYTHON` \|
 `ARTIFICIAL INTELLIGENCE` \| `INDUSTRIAL AUTOMATION` \|
